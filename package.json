@@ -1,0 +1,23 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome Detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannixcom/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javaScript"
+  ],
+  "author": "mannix carney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannixcom/palindrome/issues"
+  },
+  "homepage": "https://github.com/mannixcom/palindrome#readme"
+}
